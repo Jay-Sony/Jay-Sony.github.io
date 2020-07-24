@@ -10,6 +10,13 @@ span{
     
     
     p{
-        color:beige;
-        border:4px solid brown;
+        color:white;
+        border:4px solid rgb(211, 67, 67);
+        font-size: larger;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        
+    }
+    a{
+        color:red;
+        text-decoration: none;
     }
