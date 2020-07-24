@@ -1,0 +1,15 @@
+span{
+    color:blue;
+    font-size: 30px;
+    text-transform: uppercase;
+    }
+    body{
+        text-align: center;
+       background-color: aquamarine;
+    }
+    
+    
+    p{
+        color:beige;
+        border:4px solid brown;
+    }
